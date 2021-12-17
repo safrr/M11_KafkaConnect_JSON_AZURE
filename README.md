@@ -1,14 +1,3 @@
-
-## Create a kafka topic
-
-- The topic should have at least 3 partitions because the azure blob storage has 3 partitions. Name the new topic: "expedia".
-
-## Prepare the azure connector configuration
-
-## Upload the connector file through the API
-
-
-
 1. Data is in Azure ADLS gen2 storage bd201stacc/m11kafkaconnect.
    ![](screens/1.png)
   
